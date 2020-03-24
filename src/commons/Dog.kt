@@ -1,4 +1,4 @@
-package controlstructures
+package commons
 
 class Dog : Pet() {
     fun woof() {

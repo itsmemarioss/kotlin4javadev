@@ -1,4 +1,4 @@
-package controlstructures
+package commons
 
 enum class Color {
 
